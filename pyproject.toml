@@ -1,7 +1,7 @@
 [project]
 name = "llmvision"
-version = "0.1.0"
-description = "Visualize how LLMs tokenize text - see the world through the eyes of language models"
+version = "0.1.1"
+description = "Visualize how LLMs tokenize text"
 readme = "README.md"
 authors = [
     { name = "Alok Singh", email = "alokbeniwal@gmail.com" }
